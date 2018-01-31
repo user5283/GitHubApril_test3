@@ -1,5 +1,5 @@
 # IT6033_practical_task_1_data_structures
-Contains student files for the Task 1 in IT6033
+Contains student files for the Task 1 in IT6033 Data Structures and Algorithms
 
 
   ListOfPatients.txt required for Question 1
