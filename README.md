@@ -2,9 +2,8 @@
 Contains student files for the Task 1 in IT6033 Data Structures and Algorithms
 
 
-  ListOfPatients.txt required for Question 1
+  ListOfPatients.txt is required for Question 1
   
+  TicketingSystem.java is required for Question 3
   
-  TicketingSystem.java required for Question 3
-  
-  Refer to the Practical Task document in iQualify for the list of full instructions.
+  Refer to the Practical Task 1 document in iQualify for the full list of instructions.
