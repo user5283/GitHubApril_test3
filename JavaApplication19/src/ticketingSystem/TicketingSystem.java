@@ -25,6 +25,8 @@ public class TicketingSystem {
         public void run() {
                 
             System.out.println("Sales Assistant is ready to see the next customer."); 
+             System.out.println("Sales Assistant is ready to see the next customer.");
+              System.out.println("Sales Assistant is ready to see the next customer.");
             
             /*the rest of code to display the next customer in line, what number
             ticket is next in line and list all customers in a queue */
